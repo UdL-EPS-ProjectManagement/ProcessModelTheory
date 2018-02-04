@@ -537,6 +537,88 @@ section.title h1 {
 section.title footer {
   display: none;
 }
+.bespoke-slide.query-result {
+  padding: 0;
+  background-color: #efefef;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+}
+.bespoke-slide.query-result .query {
+  background-color: #19213b;
+  width: 100%;
+  min-height: 70%;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-bottom: 2em;
+}
+.bespoke-slide.query-result .query:not(.bespoke-bullet-current) {
+  min-height: 35%;
+  transition: min-height 1s ease, padding 0.5s ease;
+  padding-bottom: 1.2em;
+}
+.bespoke-slide.query-result .query:not(.bespoke-bullet-current) .label {
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+.bespoke-slide.query-result .query:not(.bespoke-bullet-current) pre.source {
+  line-height: 1.4;
+  opacity: 0.85;
+  transition: line-height 0.5s ease, opacity 0.5s ease;
+  overflow: hidden;
+}
+.bespoke-slide.query-result pre.source {
+  font-family: mplus-1m, monospace;
+  font-weight: 500;
+  font-size: 1.25em;
+  line-height: 1.6;
+  margin: 0;
+  color: rgba(255,255,255,0.95);
+  overflow: hidden;
+}
+.bespoke-slide.query-result pre.source code {
+  font-size: inherit;
+  font-family: inherit;
+}
+.bespoke-slide.query-result pre.source .keyword,
+.bespoke-slide.query-result pre.source .function {
+  font-weight: 700;
+}
+.bespoke-slide.query-result pre.source .keyword {
+  color: #a0ff7c;
+}
+.bespoke-slide.query-result pre.source .function {
+  color: #fff;
+}
+.bespoke-slide.query-result .label,
+.bespoke-slide.query-result h2 {
+  position: absolute;
+  top: 1.5ex;
+  left: 1.5ex;
+  padding: 0.25ex 0.5ex;
+  border: 0px solid rgba(255,255,255,0.25);
+  border-width: 0 0.2ex;
+  border-radius: 0.75ex;
+  font-family: Dosis;
+  font-weight: 300;
+  color: rgba(255,255,255,0.55);
+  line-height: 1;
+  font-size: 0.9em;
+}
+.bespoke-slide.query-result pre.result {
+  font-family: mplus-1m, monospace;
+  font-size: 1.3em;
+  line-height: 1.5;
+  color: #303030;
+  margin: 0;
+  padding: 1em 1em 0 1em;
+  overflow: hidden;
+}
 section.speaker {
   background-color: #fff;
   color: #fff;
