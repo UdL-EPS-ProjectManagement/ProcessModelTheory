@@ -5,6 +5,10 @@ Project Management Course is aimed at starting to know how to manage your real-l
 ### Theoretical Classes
 
 #### Session 1: Subject Introduction
+This session is focused on making an overview of the course concepts and the corresponding evaluation.
+
+- [Presentation (HTML)](session_1_Introduction/output/index.html)
+- [Presentation and Notes (PDF)](session_1_Introduction/output/introduction.pdf)
 
 #### Session 2: Introduction to Project Management
 
