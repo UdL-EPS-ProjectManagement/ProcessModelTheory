@@ -1,0 +1,108 @@
+= Process Model Subject Overview
+Aitor Corchero Rodríguez <aitorcorchero@gmail.com>
+:organization: Eurecat
+:position: Data Scientist at Smart Management Systems
+:twitter: @aolite
+:avatar: aitor-corchero.png
+:imagesdir: images
+:favicon: {imagesdir}/favicon.ico
+:!sectids:
+
+image::title-page.jpeg[Graph nodes background,1280,720,role=cover canvas]
+
+[%editable,transform=speaker]
+== Speaker
+
+[.agenda%conceal]
+== Agenda
+[.agenda,build=items]
+* What we learn in this course?
+* Learning objectives
+* Content
+* Evaluation
+
+[.slide-agenda-title]
+== What we learn in this course?
+
+[.slide-title-down]
+== Project Management
+image::project_management.jpg[Project Management,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== Agile Methodologies
+image::agile-methodology.jpeg[Agile Methodology,1280,720,role=cover canvas]
+
+[.slide-agenda-title]
+== Course Objectives
+
+[.slide-title-down]
+== Manage Projects
+image::manage-projects.jpg[Manage Projects,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== Project Monitoring
+image::project-monitoring.png[Project Monitoring,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== Real-life experience
+image::real-life-experience.jpg[Project Monitoring,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== Present your projects
+image::present-project.jpg[Present your Project,1280,720,role=cover canvas]
+
+[.slide-agenda-title]
+== Content
+
+[.query-result]
+== First Course Classes
+[.query.build]
+--
+
+--
+
+[.result.build]
+....
+* Introduction Project Management. 
+* AGILE 
+* SCRUM
+* Put in Practice Agile & Scrum
+....
+
+[.query-result]
+== Practical Experience
+[.query.build]
+--
+
+--
+
+[.result.build]
+....
+* Develop Project in Django Environment. 
+* Manage your project using Agile. 
+* Project Presentation
+....
+
+[.query-result]
+== Course Evaluation
+[.query.build]
+--
+
+--
+
+[.result.build]
+....
+## activity  Percentage  Description
+## Exercices   20%       Not presented =0
+## Exam	       30%       Result >= 4
+## Project     50%       30%-10%-10%
+
+....
+
+[.slide-title-down]
+== Presentation Round
+image::presentation-round.jpg[Presentation Round,1280,720,role=cover canvas]
+
+[.ending-slide]
+== !Let's start with project management path
+image::management-path.jpg[Management Path,1280,720,role=cover canvas]
