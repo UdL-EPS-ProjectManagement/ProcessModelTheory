@@ -40,7 +40,7 @@ We will begin with the comapnies. What is a company?
 
 [.presentation-backdrop-img]
 == !
-image::steve.jpeg[Companies,1280,720,role=cover canvas]
+image::steve.jpeg[Steve,1280,720,role=cover canvas]
 "A company is about the products. 
 It's about working together with really fun, smart, creative people and making wonderful things"
 -- Steve Jobs
@@ -54,8 +54,97 @@ A company formal definition is a set of people working together with a common ob
 == Types Of Companies
 image::companies.jpg[Companies,1280,720,role=cover canvas]
 
+[.cue]
+****
+In the following sub-section we will overview the different types of companies that exist. The types 
+of companies we will see are independent and all types have their advantages and disadvantages. In 
+this regards, the types of companies are: 
+****
 
+[.slide-title-down]
+== Functional
+image::functional-company.png[Functional Company,1280,720,role=cover canvas]
 
+[.cue]
+****
+A functional company is a company with the following features: 
+* Strong Hierarchy
+* Workers grouped by ambits or specializations
+* Independent Departments
+* Different directors to coordinate workers
+* Don't exist project manager figure
+****
+
+[.slide-title-down]
+== Matrix
+image::matricial-company.jpg[Matricial Company,1280,720,role=cover canvas]
+
+[.cue]
+****
+A Matrix company is a company with the following features: 
+* Mix beteween functional companies and project oriented
+* Independent Departments
+* Exist project manager but with moderate authority
+* Depending the project manager authority, there exist 3 types: Weak (low authority and resources), 
+Balanced (medium authority and resources), Strong (high).
+****
+
+[.slide-title-down]
+== Project-based
+image::project-based.jpeg[Project Based Company,1280,720,role=cover canvas]
+
+[.cue]
+****
+A project-based company is a company with the following features: 
+* Working in different multi-disciplinary teams. 
+* Project Manager with strong authority and resource management.
+* Teams could be dynamically configured by adjusting it to the project nature. 
+****
+
+[.slide-title-top]
+== Type Companies Summary
+image::type-company-summary.jpeg[Project Based Company,1280,720,role=cover canvas]
+
+[.cue]
+****
+A project-based company is a company with the following features: 
+* Working in different multi-disciplinary teams. 
+* Project Manager with strong authority and resource management.
+* Teams could be dynamically configured by adjusting it to the project nature. 
+****
+
+[.slide-agenda-title]
+== Projects inside the companies
+[.cue]
+****
+All of these depicted companies elaborate their own projects and producs to take profit. Along 
+this part of the document, we will see the definition of a project, the main features and the 
+people involved. As a high remark, we will see the importance of taking all times the clients needs 
+in mind to elaborate right products and sucessful projects. 
+****
+
+[.presentation-backdrop-img]
+== !
+image::pm-book.jpeg[PMBook,1280,720,role=cover canvas]
+"A project is a temporal effort that is carried out with the aim of creating a product, 
+ service or result unique."
+-- PMBook
+
+[.cue]
+****
+One of the most accurated definition of a project is the one provided by the PMBook: 
+"A project is a temporal effort that is carried out with the aim of creating a product, 
+ service or result unique."
+****
+
+[.slide-title-down]
+== Temporal
+image::begin-end.jpg[Temporal Feature,1280,720,role=cover canvas]
+
+[.cue]
+****
+One important feature of a project is the temporal feature. Every project has defined a begin and end. 
+****
 
 [.ending-slide]
 == !Let's start with project management path

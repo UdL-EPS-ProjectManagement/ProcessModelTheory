@@ -781,6 +781,17 @@ ul.agenda li::before {
   -ms-flex-pack: center;
   justify-content: center;
 }
+.bespoke-slide.slide-title-top h2 {
+  color: #5a3dc4;
+  font-weight: 600;
+  display: -ms-flexbox;
+  display: flex;
+  margin: -40% 0% 0% 0%;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
 .bespoke-slide.presentation-bugs {
   background-color: #0f0d0c;
   -ms-flex-align: end;
