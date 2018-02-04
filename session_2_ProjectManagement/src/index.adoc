@@ -1,4 +1,4 @@
-= Process Model Subject Overview
+= Project Management
 Aitor Corchero Rodríguez <aitorcorchero@gmail.com>
 :organization: Eurecat
 :position: Data Scientist at Smart Management Systems
@@ -16,92 +16,28 @@ image::title-page.jpeg[Graph nodes background,1280,720,role=cover canvas]
 [.agenda%conceal]
 == Agenda
 [.agenda,build=items]
-* What we learn in this course?
-* Learning objectives
-* Content
-* Evaluation
+* Comapnies
+* Projects inside companies
+* Project vs Product
+* Development Models
+
+[.cue]
+****
+During this session, we will talk about the types of comanies, proyects and products they elaborate.
+For that, we will start the course describing the different types of companies. After that, we will 
+make introduction to projects and project management. From projects, the companies will transform it
+into products to market outreach the technology.  Finally, we will talk about the process to tranform 
+a project to products. 
+****
 
 [.slide-agenda-title]
-== What we learn in this course?
+== Project in Companies
 
 [.slide-title-down]
-== Project Management
+== Types Of Companies
 image::project_management.jpg[Project Management,1280,720,role=cover canvas]
 
-[.slide-title-down]
-== Agile Methodologies
-image::agile-methodology.jpeg[Agile Methodology,1280,720,role=cover canvas]
 
-[.slide-agenda-title]
-== Course Objectives
-
-[.slide-title-down]
-== Manage Projects
-image::manage-projects.jpg[Manage Projects,1280,720,role=cover canvas]
-
-[.slide-title-down]
-== Project Monitoring
-image::project-monitoring.png[Project Monitoring,1280,720,role=cover canvas]
-
-[.slide-title-down]
-== Real-life experience
-image::real-life-experience.jpg[Project Monitoring,1280,720,role=cover canvas]
-
-[.slide-title-down]
-== Present your projects
-image::present-project.jpg[Present your Project,1280,720,role=cover canvas]
-
-[.slide-agenda-title]
-== Content
-
-[.query-result]
-== First Course Classes
-[.query.build]
---
-
---
-
-[.result.build]
-....
-* Introduction Project Management. 
-* AGILE 
-* SCRUM
-* Put in Practice Agile & Scrum
-....
-
-[.query-result]
-== Practical Experience
-[.query.build]
---
-
---
-
-[.result.build]
-....
-* Develop Project in Django Environment. 
-* Manage your project using Agile. 
-* Project Presentation
-....
-
-[.query-result]
-== Course Evaluation
-[.query.build]
---
-
---
-
-[.result.build]
-....
-## activity  Percentage  Description
-## Exercices   20%       Not presented =0
-## Exam	       30%       Result >= 4
-## Project     50%       30%-10%-10%
-
-....
-
-[.slide-title-down]
-== Presentation Round
-image::presentation-round.jpg[Presentation Round,1280,720,role=cover canvas]
 
 [.ending-slide]
 == !Let's start with project management path
