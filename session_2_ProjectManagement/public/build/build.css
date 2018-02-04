@@ -537,6 +537,25 @@ section.title h1 {
 section.title footer {
   display: none;
 }
+.bespoke-slide.presentation-backdrop-img img {
+  background-size: cover;
+  background-position: 0 40%;
+  transform-origin: 35% 35%;
+  transform: translateZ(0) scale(1.5);
+}
+.bespoke-slide.presentation-backdrop-img .quote {
+  color: #fff;
+  width: 60%;
+  margin: 0% 0% 10% 20%;
+}
+.bespoke-slide.presentation-backdrop-img figcaption {
+  margin: 0 0% 0% 5%;
+}
+.bespoke-slide.presentation-backdrop-img.bespoke-active {
+  opacity: 0.4;
+  transform: translateZ(0) scale(1.3);
+  transition: transform 5s ease-in-out, opacity 1s ease;
+}
 .bespoke-slide.query-result {
   padding: 0;
   background-color: #efefef;

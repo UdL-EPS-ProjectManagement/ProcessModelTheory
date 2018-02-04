@@ -16,7 +16,7 @@ image::title-page.jpeg[Graph nodes background,1280,720,role=cover canvas]
 [.agenda%conceal]
 == Agenda
 [.agenda,build=items]
-* Comapnies
+* Companies
 * Projects inside companies
 * Project vs Product
 * Development Models
@@ -31,11 +31,29 @@ a project to products.
 ****
 
 [.slide-agenda-title]
-== Project in Companies
+== Companies
+
+[.cue]
+****
+We will begin with the comapnies. What is a company? 
+****
+
+[.presentation-backdrop-img]
+== !
+image::steve.jpeg[Companies,1280,720,role=cover canvas]
+"A company is about the products. 
+It's about working together with really fun, smart, creative people and making wonderful things"
+-- Steve Jobs
+
+[.cue]
+****
+A company formal definition is a set of people working together with a common objective.
+****
 
 [.slide-title-down]
 == Types Of Companies
-image::project_management.jpg[Project Management,1280,720,role=cover canvas]
+image::companies.jpg[Companies,1280,720,role=cover canvas]
+
 
 
 
