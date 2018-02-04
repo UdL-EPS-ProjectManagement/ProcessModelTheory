@@ -146,6 +146,36 @@ image::begin-end.jpg[Temporal Feature,1280,720,role=cover canvas]
 One important feature of a project is the temporal feature. Every project has defined a begin and end. 
 ****
 
+[.slide-title-top]
+== Temporal Feature
+image::temporal-features.jpeg[Temporal Features,1280,720,role=cover canvas]
+
+[.cue]
+****
+Subsequently to the definition of the begin and end, a project also have a limitation in resources and
+there isn't a repetition of the project. 
+****
+
+[.slide-title-down]
+== Unique
+image::unique.jpg[Unique,1280,720,role=cover canvas]
+
+[.cue]
+****
+Complementing the temporal feature, a project is an unique. That means, there are no identical projects. 
+It could be tangible or intangible with different deliveries. 
+****
+
+[.slide-title-top]
+== Unique Feature
+image::unique-feature.jpeg[Unique Features,1280,720,role=cover canvas]
+
+[.cue]
+****
+In reference to the unique feature, each project could be a part of a product, service, improvements
+or results. 
+****
+
 [.ending-slide]
 == !Let's start with project management path
 image::management-path.jpg[Management Path,1280,720,role=cover canvas]
