@@ -19,7 +19,6 @@ image::title-page.jpeg[Graph nodes background,1280,720,role=cover canvas]
 * Companies
 * Projects inside companies
 * Project vs Product
-* Development Models
 
 [.cue]
 ****
@@ -175,6 +174,60 @@ image::unique-feature.jpeg[Unique Features,1280,720,role=cover canvas]
 In reference to the unique feature, each project could be a part of a product, service, improvements
 or results. 
 ****
+
+[.slide-title-down]
+== Project vs Operative Work
+image::project-operative-work.jpg[Be or not not be,1280,720,role=cover canvas]
+
+[.cue]
+****
+At this moment, one important aspect is the differentiation between projects and operative work. 
+****
+
+[.slide-title-top]
+== Project vs Operative Work
+image::diff-project-operative-work.jpeg[Diff Operatve Work,1280,720,role=cover canvas]
+
+[.cue]
+****
+The main difference between projects and operative works refers to the duration. The projects are 
+timeframed into a temporal scale (weeks, months, years). As contrary, operative work is a repetitive 
+work during time. 
+
+Another difference is in the type of outcome. In the projects there is a unique result 
+(software, report, etc). However, the operative work as name indicates is based on repetitive results 
+(same result over time). 
+
+The third main difference is the type of outcome. In case of the projects, the type of outcome commonly
+refers to a newer product. As contrary, operative work refers to maintenance tasks, audits, etc. 
+****
+
+[.slide-agenda-title]
+== Project vs Operative Work (Exercise)
+
+[.slide-title-down]
+== Exercise
+image::exercise-operative.jpg[Exercise Operative Work,1280,720,role=cover canvas]
+
+[.cue]
+****
+**Exercise**. The Ipad product is a project or an operative work? 
+****
+
+[.slide-title-down]
+== Depends
+image::ipad-exercise.jpeg[Exercise Operative Work Solution,1280,720,role=cover canvas]
+
+[.cue]
+****
+It depends to which process we focus on. If we think on the Ipad conception, it is a project. However,
+if we think in the Ipad production, it is an operative work. 
+****
+
+[.slide-agenda-title]
+== Project vs Product Lifecycle
+
+
 
 [.ending-slide]
 == !Let's start with project management path
