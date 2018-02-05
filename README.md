@@ -15,7 +15,7 @@ This session is focused on making an overview of the course concepts and the cor
 This session is focused on describing the companies and their context. Also the presentation is aimed at introducing the projects and products and their roles in the companies. 
 
 - [Presentation (HTML)](session_2_ProjectManagement/output/index.html)
-- [Presentation and Notes (PDF)](session_2_ProjectManagement/output/IntoProjectManagement.pdf)
+- [Presentation and Notes (PDF)](session_2_ProjectManagement/output/IntroProjectManagement.pdf)
 
 
 ### Support or Contact
