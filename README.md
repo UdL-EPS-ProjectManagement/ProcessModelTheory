@@ -17,5 +17,4 @@ This session is focused on describing the companies and their context. Also the 
 - [Presentation (HTML)](session_2_ProjectManagement/output/index.html)
 - [Presentation and Notes (PDF)](session_2_ProjectManagement/output/IntroProjectManagement.pdf)
 
-
 ### Support or Contact
