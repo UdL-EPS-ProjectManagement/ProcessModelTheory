@@ -17,4 +17,13 @@ This session is focused on describing the companies and their context. Also the 
 - [Presentation (HTML)](session_2_ProjectManagement/output/index.html)
 - [Presentation and Notes (PDF)](session_2_ProjectManagement/output/IntroProjectManagement.pdf)
 
+#### Session 3: Software Development Methods
+
+
+### Class Exercises
+
+#### Quiz Exercise 1: Introduction to project Management Test
+
+
+
 ### Support or Contact
