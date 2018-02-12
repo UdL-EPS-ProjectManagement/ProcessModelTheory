@@ -1,4 +1,4 @@
-= Introduction to Project Management
+= Software Development Models
 Aitor Corchero Rodríguez <aitorcorchero@gmail.com>
 :organization: Eurecat
 :position: Data Scientist at Smart Management Systems
@@ -16,303 +16,120 @@ image::title-page.jpeg[Graph nodes background,1280,720,role=cover canvas]
 [.agenda%conceal]
 == Agenda
 [.agenda,build=items]
-* Companies
-* Projects inside companies
-* Project vs Product
-* Why a project starts?
+* Predictive vs Adaptive Models 
+* Software Development 
+* Project Planning 
 
 [.cue]
 ****
-During this session, we will talk about the types of comanies, proyects and products they elaborate.
-For that, we will start the course describing the different types of companies. After that, we will 
-make introduction to projects and project management. From projects, the companies will transform it
-into products to market outreach the technology.  Finally, we will talk about the process to tranform 
-a project to products. 
+In previous sessions, we talked about the companies, projects and resulting products. We talked 
+about how the porject is initiated in a company. During this session, we will talk about project 
+planning. One important aspect of the project planning is the selection of the software development
+model and the corresponding implementation of the plan in for of GANTT chart. 
 ****
+
 
 [.slide-agenda-title]
-== Companies
+==  Predictive vs Adaptive Models 
 
 [.cue]
 ****
-We will begin with the comapnies. What is a company? 
-****
-
-[.presentation-backdrop-img]
-== !
-image::steve.jpeg[Steve,1280,720,role=cover canvas]
-"A company is about the products. 
-It's about working together with really fun, smart, creative people and making wonderful things"
--- Steve Jobs
-
-[.cue]
-****
-A company formal definition is a set of people working together with a common objective.
+All software development models are categorised in Predictive and Adaptative models. These models represent
+a way of thinking and solving a problem. As allways, there is not better group of models than others.
 ****
 
 [.slide-title-down]
-== Types Of Companies
-image::companies.jpg[Companies,1280,720,role=cover canvas]
+== Predictive Models
+image::predictive.jpg[Predictive,1280,720,role=cover canvas]
 
 [.cue]
 ****
-In the following sub-section we will overview the different types of companies that exist. The types 
-of companies we will see are independent and all types have their advantages and disadvantages. In 
-this regards, the types of companies are: 
+The first group of models refers to the predictve way of thinking. Predictive models are *Linear* Models
+in which the project is constantly developed until the end. Predictive models/projects are divided in 
+different *phases or stages* and the project ends once executed all the phases. Commonly, the structure of 
+this kind of projects begins with a *requirements phase* and adter requirements the projects is being developed
+and tested. 
 ****
 
 [.slide-title-down]
-== Functional
-image::functional-company.png[Functional Company,1280,720,role=cover canvas]
+== Adaptive Models
+image::adaptive.jpg[Adaptive,1280,720,role=cover canvas]
 
 [.cue]
 ****
-A functional company is a company with the following features: 
-* Strong Hierarchy
-* Workers grouped by ambits or specializations
-* Independent Departments
-* Different directors to coordinate workers
-* Don't exist project manager figure
-****
-
-[.slide-title-down]
-== Matrix
-image::matricial-company.jpg[Matricial Company,1280,720,role=cover canvas]
-
-[.cue]
-****
-A Matrix company is a company with the following features: 
-* Mix beteween functional companies and project oriented
-* Independent Departments
-* Exist project manager but with moderate authority
-* Depending the project manager authority, there exist 3 types: Weak (low authority and resources), 
-Balanced (medium authority and resources), Strong (high).
-****
-
-[.slide-title-down]
-== Project-based
-image::project-based.jpeg[Project Based Company,1280,720,role=cover canvas]
-
-[.cue]
-****
-A project-based company is a company with the following features: 
-* Working in different multi-disciplinary teams. 
-* Project Manager with strong authority and resource management.
-* Teams could be dynamically configured by adjusting it to the project nature. 
+As contrary, adaptive models refers to models that iteratively or incremently improves the product 
+along the lifecycle until achieve the final product. The main feature of this models are the capacity 
+to *adapt* to existing situations. Commonly, this models are divided in iterations and sprints. In each
+iteration or sprint, a new *functional prototype* is being developed and validated by the clients. Thus,
+it is commonly that the requirements changes along the project lifecycle (iterations). 
 ****
 
 [.slide-title-top]
-== Type Companies Summary
-image::type-company-summary.jpeg[Project Based Company,1280,720,role=cover canvas]
+== Predictive vs Adaptive Models (Summary)
+image::summary-models.jpeg[Type of Models Summary,1280,720,role=cover canvas]
+
+[.topic]
+== !Predictive vs Adaptive Example
+image::pred-adapt-title.jpeg[Predictive vs Adaptive Example,1280,720,role=cover canvas]
 
 [.cue]
 ****
-A project-based company is a company with the following features: 
-* Working in different multi-disciplinary teams. 
-* Project Manager with strong authority and resource management.
-* Teams could be dynamically configured by adjusting it to the project nature. 
-****
-
-[.slide-agenda-title]
-== Projects inside the companies
-[.cue]
-****
-All of these depicted companies elaborate their own projects and producs to take profit. Along 
-this part of the document, we will see the definition of a project, the main features and the 
-people involved. As a high remark, we will see the importance of taking all times the clients needs 
-in mind to elaborate right products and sucessful projects. 
-****
-
-[.presentation-backdrop-img]
-== !
-image::pm-book.jpeg[PMBook,1280,720,role=cover canvas]
-"A project is a temporal effort that is carried out with the aim of creating a product, 
- service or result unique."
--- PMBook
-
-[.cue]
-****
-One of the most accurated definition of a project is the one provided by the PMBook: 
-"A project is a temporal effort that is carried out with the aim of creating a product, 
- service or result unique."
+The coming slides will show an example between predictive and adaptive travelers. In this example, we 
+have to plan a travel from Barcelona-London with a budget of 600€ for 3 days. How will proceed each 
+of the travelers?
 ****
 
 [.slide-title-down]
-== Temporal
-image::begin-end.jpg[Temporal Feature,1280,720,role=cover canvas]
-
-[.cue]
-****
-One important feature of a project is the temporal feature. Every project has defined a begin and end. 
-****
+== Predictive Traveller
+image::adaptive-traveller.jpg[Predictive Traveller,1280,720,role=cover canvas]
 
 [.slide-title-top]
-== Temporal Feature
-image::temporal-features.jpeg[Temporal Features,1280,720,role=cover canvas]
+== Predictive Traveler Planning
+image::pred-costs.jpeg[Predictive Costs,1280,720,role=cover canvas]
 
 [.cue]
 ****
-Subsequently to the definition of the begin and end, a project also have a limitation in resources and
-there isn't a repetition of the project. 
+The predictive traveler divides the travel in different steps starting from the Barcelona flights, the
+hotels in London, the monuments to visit and finally, the come back home. Everything is planned and 
+scheduled linearly in time until the end of the travel. What happen if something unexpected occurs?
 ****
 
 [.slide-title-down]
-== Unique
-image::unique.jpg[Unique,1280,720,role=cover canvas]
+== Unexpected Situation
+image::delay.jpg[Delay,1280,720,role=cover canvas]
 
 [.cue]
 ****
-Complementing the temporal feature, a project is an unique. That means, there are no identical projects. 
-It could be tangible or intangible with different deliveries. 
+If some unexpected situation occurs, then, the predictive traveler has to re-schedle the whole plan. It 
+could impact in some unexpected costs and delays at the end of the travel.
 ****
+
+[.slide-title-down]
+== Adaptive Traveller
+image::predictive-traveller.jpg[Adaptive Traveller,1280,720,role=cover canvas]
 
 [.slide-title-top]
-== Unique Feature
-image::unique-feature.jpeg[Unique Features,1280,720,role=cover canvas]
+== Adaptive Traveler Planning
+image::adapt-costs.jpeg[Adaptive Costs,1280,720,role=cover canvas]
 
 [.cue]
 ****
-In reference to the unique feature, each project could be a part of a product, service, improvements
-or results. 
+The adaptive traveler only plans the first or two first days of the travel. Then the rest of the days 
+are planned based on the interests of the traveler or the weather. What happen if something unexpected 
+occurs?
 ****
 
 [.slide-title-down]
-== Project vs Operative Work
-image::project-operative-work.jpg[Be or not not be,1280,720,role=cover canvas]
+== Unexpected Situation
+image::delay.jpg[Delay,1280,720,role=cover canvas]
 
 [.cue]
 ****
-At this moment, one important aspect is the differentiation between projects and operative work. 
+In that case, the asociated costs are minimised to the planned window and makes open the rest of the 
+days to plan anything. 
 ****
 
-[.slide-title-top]
-== Project vs Operative Work
-image::diff-project-operative-work.jpeg[Diff Operatve Work,1280,720,role=cover canvas]
 
-[.cue]
-****
-The main difference between projects and operative works refers to the duration. The projects are 
-timeframed into a temporal scale (weeks, months, years). As contrary, operative work is a repetitive 
-work during time. 
-
-Another difference is in the type of outcome. In the projects there is a unique result 
-(software, report, etc). However, the operative work as name indicates is based on repetitive results 
-(same result over time). 
-
-The third main difference is the type of outcome. In case of the projects, the type of outcome commonly
-refers to a newer product. As contrary, operative work refers to maintenance tasks, audits, etc. 
-****
-
-[.slide-agenda-title]
-== Project vs Operative Work (Exercise)
-
-[.slide-title-down]
-== Exercise
-image::exercise-operative.jpg[Exercise Operative Work,1280,720,role=cover canvas]
-
-[.cue]
-****
-**Exercise**. The Ipad product is a project or an operative work? 
-****
-
-[.slide-title-down]
-== Depends
-image::ipad-exercise.jpeg[Exercise Operative Work Solution,1280,720,role=cover canvas]
-
-[.cue]
-****
-It depends to which process we focus on. If we think on the Ipad conception, it is a project. However,
-if we think in the Ipad production, it is an operative work. 
-****
-
-[.slide-agenda-title]
-== Project vs Product Lifecycle
-
-[.slide-title-top]
-== Project Lifecycle
-image::project-lifecycle.png[Project Lifecycle,1280,720,role=cover canvas]
-
-[.cue]
-****
-Inside the companies, we usually have projects and products. Projects and products have different 
-lifecycles. Project lifecycle is the process to generate this newer produtct. The project lifecycle 
-starts with a project idea (initial idea/customer need to make a response). Based on this idea, the
-project is planned along the time and with their corresponding efforts. The plan is the general guide 
-for the execution, in which the newer product is materialised. During the execution we need constantly
-to monitor and control the project to finalise it in the required time, with the established efforts 
-and also with the expected quality. Once the project is finalised, the closing stage focuses on 
-launching the newer product to the market or give them to the corresponding customer. 
-
-Once the project lifecycle ends, it startsit starts the product lifecycle. 
-****
-
-[.slide-title-top]
-== Product Lifecycle
-image::product-lifecycle.jpeg[Product Lifecycle,1280,720,role=cover canvas]
-
-[.cue]
-****
-The product lifecycle directly depends on the sales. It begins with the introduction aimed at market
-outreach. Then, the product is going to gain market share and give benefits to the company (growth). 
-The sales growth arrives when the product is established in the market (sales establishment). when
-this happens, the product is on the maturity. Finally the products starts to lose market due to other 
-products gains your marketshare. This stage is called "decline". When the product starts to decline 
-it needs a renewal to maintain it in the market. If not, the product will die. 
-
-Nowadays, this product lifecicle is terrible short (1-2 years) and it needs that companies has to be 
-very flexible to be competitive and do not die as well. To avoid this the companies has to elaborate 
-a great variety of products to be present in different markets and maintain their own lifecycle.
-****
-
-[.slide-title-top]
-== Project vs Product Lifecycle Summary
-image::project-product.jpeg[Diff Project and Product,1280,720,role=cover canvas]
-
-[.cue]
-****
-To sum up, the main difference between projects and products lifecycles are: 
-- Product Lifecycle is longer (in time) than Project Lifecycle.
-- Prduct Lifecycle starts when Project ends.
-- Product Lifecycle could include multiple Project Lifecycle.
-****
-
-[.slide-agenda-title]
-== Why a project starts?
-
-[.slide-title-down]
-== Business Need
-image::business-need.jpg[Business Need,1280,720,role=cover canvas]
-
-[.slide-title-down]
-== Technology
-image::technology-advancement.jpg[technology Advancement,1280,720,role=cover canvas]
-
-[.slide-title-down]
-== Clients
-image::customer-need.jpg[Customer Need,1280,720,role=cover canvas]
-
-[.slide-title-down]
-== Legal/Governance
-image::legal-requirement.jpg[Legal Requirement,1280,720,role=cover canvas]
-
-[.cue]
-****
-During this session, we talked about the companies, the projects and the products. However, we 
-didn't mention how the projects are created. Mainly, the projects are created by considering the 
-following circumstances: 
-- Bussiness Need. This refers to the market need for an specific solution or product. 
-- Technologic Advancement. The project is driven by the introduction of newer technology inside the market.
-- Client Need. Our customers needs some specific solution.  
-- Legal Requirement. Governance or Laws changes and newer products could be derived from them.
-****
 
 [.ending-slide]
-== !Now is time to know project management
-image::project-management.jpg[Project Management,1280,720,role=cover canvas]
-
-[.cue]
-****
-In the next chapters, we will explain in deph project management basis, aspects to consider and how
-to select a software development models for our projects. That means, we will focus on the panning 
-part of the project. 
-****
+== Now is time to know project management
