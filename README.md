@@ -36,6 +36,16 @@ This section is aimed at explaining the fundamentals of the agile methodology.
 - [Test (HTML)](test_1/test_1.html)
 - [Test (PDF)](test_1/test1.pdf)
 
+### Test 2: Software Development Models
 
+TBD
+
+### Test 3: Agile Methodology
+
+TBD
+
+### Exams
+
+TBD
 
 ### Support or Contact
