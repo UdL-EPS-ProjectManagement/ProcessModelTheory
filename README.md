@@ -23,9 +23,13 @@ This session is aimed at introducing the initial step of the project planning th
 - [Presentation (HTML)](session_3_Software_Develoment_Methods/output/index.html)
 - [Presentation and Notes (PDF)](session_3_Software_Develoment_Methods/output/session3.pdf)
 
+### Session 4: Agile methodology
+This section is aimed at explaining the fundamentals of the agile methodology. 
+
+
 ### Class Exercises
 
-#### Quiz Exercise 1: Introduction to project Management Test
+#### Test 1: Introduction to project Management
 
 
 

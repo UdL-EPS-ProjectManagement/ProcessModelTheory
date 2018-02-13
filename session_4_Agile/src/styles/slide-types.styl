@@ -1,0 +1,261 @@
+section.title
+  justify-content flex-end
+  align-items flex-end
+  h1
+    font-size 2.5em
+    margin 0 0% 15% 30%
+    text-shadow 0 1px 5px rgba(0,0,0,.15)
+    font-weight 700
+    color #5A3DC4
+  footer
+    display none
+
+.bespoke-slide.presentation-backdrop-img
+  img
+    background-size cover
+    background-position 0 40%
+    transform-origin 35% 35%
+    transform translateZ(0) scale(1.5)
+  .quote
+    color white
+    width 60%
+    margin 0% 0% 10% 20%
+  figcaption
+    margin 0 0% 0% 5%
+
+.bespoke-slide.presentation-backdrop-img.bespoke-active
+  opacity 0.4
+  transform translateZ(0) scale(1.3)
+  transition transform 5s ease-in-out, opacity 1s ease
+	
+.bespoke-slide.query-result
+  padding 0
+  background-color #efefef
+  justify-content flex-start
+  .query
+    background-color #19213b
+    width 100%
+    min-height 70%
+    display flex
+    flex-direction column
+    justify-content flex-end
+    align-items center
+    padding-bottom 2em
+    &:not(.bespoke-bullet-current)
+      min-height 35%
+      //transition min-height 1s ease 0.5s, padding 1s ease 0.5s
+      //transition min-height 1s ease 0.25s, padding 1s ease 0.25s
+      transition min-height 1s ease, padding 0.5s ease
+      padding-bottom 1.2em
+      .label
+        opacity 0
+        transition opacity 0.5s ease
+      pre.source
+        //font-size 1.2em
+        line-height 1.4
+        opacity 0.85
+        transition line-height 0.5s ease, opacity 0.5s ease
+        overflow hidden
+  pre.source
+    font-family mplus-1m, monospace
+    font-weight 500
+    font-size 1.25em
+    line-height 1.6
+    margin 0
+    color rgba(255,255,255,0.95)
+    // Flexbox likes to cause scrollbars when we don't need them
+    overflow hidden
+    code
+      font-size inherit
+      font-family inherit
+    .keyword, .function
+      //font-weight 400
+      font-weight 700
+    .keyword
+      color #a0ff7c
+    .function
+      color #ffffff
+  .label, h2
+    position absolute
+    top 1.5ex
+    left 1.5ex
+    padding 0.25ex 0.5ex
+    border 0px solid rgba(255,255,255,0.25)
+    border-width 0 0.2ex
+    border-radius 0.75ex
+    font-family Dosis
+    font-weight 300
+    color rgba(255,255,255,.55)
+    line-height 1
+    font-size 0.9em
+  pre.result
+    font-family mplus-1m, monospace
+    font-size 1.3em
+    line-height 1.5
+    //line-height 1.4
+    //font-size 1.1em
+    color #303030
+    margin 0
+    padding 1em 1em 0 1em
+    overflow hidden
+
+section.speaker
+  background-color white
+  color white
+  font-family Vollkorn, sans-serif
+  header
+    background-color #5A3DC4
+    position absolute
+    top 290px
+    left 42%
+    width 65%
+    height 110px
+    padding-left 60px
+    display flex
+    flex-direction column
+    justify-content center
+    h2, h3
+      font-weight 400
+      margin 0
+    h2
+      color lightgrey
+      font-size 35px
+      line-height 1.05
+      margin-top 0.1em
+      margin-left 2.50em
+    h3
+      font-size 19px
+      line-height 1.1
+      margin-left 4.85em
+  figure.headshot
+    position absolute
+    top 90px
+    left 75px
+    width 500px
+    height 500px
+    border-radius 250px
+    overflow hidden
+    box-shadow 0 0 0 5px #5A3DC4
+    img
+      object-fit cover
+      width 100%
+      height 100%
+  .contact
+    color #5A3DC4
+    position absolute
+    top 415px
+    left 700px
+    font-size 21px
+    word-spacing 0.25em
+    line-height 1.2
+    white-space nowrap
+    margin-top 1em
+
+slide.agenda
+  background-color #5A3DC4
+  background-size cover
+
+ul
+  padding-left 0
+  margin-left 1.5ex
+
+  &.agenda
+    height 0
+    font-family Dosis, sans-serif
+    font-weight 600
+    display flex
+    flex-direction column
+    justify-content flex-end
+    font-size 1.5em
+    border-left 0.15em solid #5A3DC4
+    margin 0
+    position absolute
+    top 0
+    right 0
+    padding 0 0.5em 0 0
+    & li
+      opacity 0
+      list-style none
+      line-height 1.5
+      margin 0
+      padding 0.25em 0 0.5em 0
+      text-transform uppercase
+      color #971730
+      vertical-align middle
+      &::before
+        line-height 1
+        content ''
+        display inline-block
+        background-color #971730
+        width 1.5em
+        height 1.5em
+        border-radius 3em
+        margin-right 1ex
+        vertical-align middle
+        margin-left -0.8325em
+
+        margin-top -0.2em
+
+.bespoke-active ul.agenda
+  transition height 3s ease 1s
+  height 100%
+  li.bespoke-bullet-active
+    opacity 1
+    &:first-of-type
+      transition opacity 0.8s ease 4s
+
+.bespoke-slide.slide-agenda-title
+  background-color #324768
+  h2
+    color white
+.bespoke-slide.slide-title-down
+  h2
+    color: white
+    background-color #00897b
+    width 600px
+    height 80px
+    padding-left 30px
+    margin-top 10 em
+    margin-left 17.50em
+    display flex
+    flex-direction column
+    justify-content center
+
+.bespoke-slide.slide-title-top
+  h2
+    color #5A3DC4
+    font-weight 600
+    display flex
+    margin -40% 0% 0% 0%
+    flex-direction column
+    justify-content center
+
+.bespoke-slide.presentation-bugs
+  background-color: #0f0d0c
+  align-items: flex-end
+  img
+    max-height: 25%
+    display: block
+    position: absolute
+    top: 40%
+    right: 0
+
+.bespoke-slide.presentation-bugs.bespoke-active img
+    max-height: 55%
+    transition: max-height ease-in-out 0.45s 0.45s
+
+.bespoke-slide.img-shadow
+  img
+    box-shadow 0 1px 5px rgba(0,0,0,.15)
+
+.bespoke-slide.grey-color
+  p
+    color:lightgrey
+
+.bespoke-slide.ending-slide
+  h2
+    color: white
+    font-weight: bold;
+.topic
+  background-size cover
+  transition none

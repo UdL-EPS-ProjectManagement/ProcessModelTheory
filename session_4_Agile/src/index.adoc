@@ -1,0 +1,161 @@
+= Agile Methodology
+Aitor Corchero Rodríguez <aitorcorchero@gmail.com>
+:organization: Eurecat
+:position: Data Scientist at Smart Management Systems
+:twitter: @aolite
+:avatar: aitor-corchero.png
+:imagesdir: images
+:favicon: {imagesdir}/favicon.ico
+:!sectids:
+
+image::title-page.jpeg[Graph nodes background,1280,720,role=cover canvas]
+
+[%editable,transform=speaker]
+== Speaker
+
+[.agenda%conceal]
+== Agenda
+[.agenda,build=items]
+* Begins
+* Needs 
+* Agile Manifesto
+* Features
+
+[.cue]
+****
+After defining and viewing the different software development methods. Now, it is time to
+introduce and detail the agile methodology. 
+****
+
+[.slide-agenda-title]
+== Agile Methodology Begins
+
+[.cue]
+****
+Agile is a software methodology based on the production models of Toyota and Canyon. For this reason, 
+this section is devoted to explain the Toyota production model. 
+****
+
+[.presentation-backdrop-img]
+== !
+image::toyota.jpeg[Lean,1280,720,role=cover canvas]
+"*Lean Manufacturing* uses the minimun necessary resources, 
+ removing all wastes and maximising the product value. "
+-- Toyota
+
+[.cue]
+****
+Lean manufacturing is about using the necessary resources to build a product. For that, we need to 
+avoid wasting times, reduce the inventories, improve efficiency and continous improvement 
+to increase product quality.
+****
+
+[.slide-title-down]
+== https://www.youtube.com/watch?v=mX7uIL-BBq0[LMP Principles]
+image::lean.jpg[Lean Principles,1280,720,role=cover canvas]
+
+[.cue]
+****
+In the folowing video, it is showed the principal components of Lean Manufacturing. 
+****
+
+[.slide-title-down]
+== !Functional
+image::lean-soft.jpeg[Lean Software Manufacturing,1280,720,role=cover canvas]
+
+[.cue]
+****
+The concept of lean manufacturing could be applied to software development. In this case, the main 
+principles could directly extrapolated: 
+- Reduce code defects (Bugs)
+- Adjust the functionalities of the product. 
+- Reduce no productive tasks (documentation)
+- Optimise the work and the time to work. 
+****
+
+[.slide-agenda-title]
+== Agile Methodology Needs
+[.cue]
+****
+This software principles are the base for the Agile Methodology. But, how the agile methodology born?
+****
+
+[.slide-title-down]
+== !Functional
+image::apple.jpg[Apple Devices,1280,720,role=cover canvas]
+
+[.cue]
+****
+The first problem to deal with is referring the velocity to create newer products. This implies the 
+companies to make the production and development of new products in shorter periods of time. 
+****
+
+
+[.slide-title-down]
+== !Functional
+image::google.png[Google Products,1280,720,role=cover canvas]
+
+[.cue]
+****
+Another important aspect is the uncertainty of the market. The companies has been forced to create a 
+variety of products to cover as much markets as possible. Today, the companies needs to life from a 
+variety of products to survive. 
+****
+
+[.slide-agenda-title]
+== Agile Manifesto
+
+[.slide-title-top]
+== Agile Manifesto - 4 Values
+image::manifesto-values.jpeg[Agile Manifesto values,1280,720,role=cover canvas]
+
+[.cue]
+****
+The agile manifesto establishes the main rules of the agile methodology. The first important aspects 
+refert to the 4 values: 
+- *People Interaction*. Agile strength is in the team interaction and customer interation in 
+order to build the product. It is important bidirectional communication with the client. At same time, 
+the interacton between the development team is important to advance in the product development. 
+- *Functional Prototypes*. Important aspect of agile is to have always a functional software to show to 
+the client. Over this initial software new functionalities/requirements appear and then, new aspects to 
+improve the product should be developed. 
+- *Customer Involvement*. The developmet is focused on the user (client). Based on them, the product is
+constructed and for this reason, it is important a close relation with the customer. 
+- *Response Change*. Refers to the hability to add7remove requirements and functionalities without impacting
+in the product costs. 
+****
+
+[.slide-title-top]
+== Agile Manifesto - 12 Principles
+image::manifesto-1.jpeg[Agile Manifesto part 1,1280,720,role=cover canvas]
+
+[.slide-title-top]
+== Agile Manifesto - 12 Principles
+image::manifesto-2.jpeg[Agile Manifesto part 1,1280,720,role=cover canvas]
+
+[.slide-agenda-title]
+== Agile Features
+
+[.slide-title-down]
+== People
+image::people.jpg[People,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== Quality
+image::quality.jpg[Quality,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== Customer-based
+image::customer.gif[Customer,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== Simplicity
+image::simplicity.gif[Simplicity,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== Data Analytics
+image::analytics.gif[Analytics,1280,720,role=cover canvas]
+
+[.ending-slide]
+== Let's go with SCRUM & Extreme Programming
+image::extreme.jpg[Extreme Programming,1280,720,role=cover canvas]
