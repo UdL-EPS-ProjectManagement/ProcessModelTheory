@@ -18,7 +18,10 @@ This session is focused on describing the companies and their context. Also the 
 - [Presentation and Notes (PDF)](session_2_ProjectManagement/output/IntroProjectManagement.pdf)
 
 #### Session 3: Software Development Methods
+This session is aimed at introducing the initial step of the project planning through the selection of a software development method. 
 
+- [Presentation (HTML)](session_3_Software_Develoment_Methods/output/index.html)
+- [Presentation and Notes (PDF)](session_3_Software_Develoment_Methods/output/session3.pdf)
 
 ### Class Exercises
 

@@ -18,14 +18,12 @@ image::title-page.jpeg[Graph nodes background,1280,720,role=cover canvas]
 [.agenda,build=items]
 * Predictive vs Adaptive Models 
 * Software Development 
-* Project Planning 
 
 [.cue]
 ****
 In previous sessions, we talked about the companies, projects and resulting products. We talked 
 about how the porject is initiated in a company. During this session, we will talk about project 
-planning. One important aspect of the project planning is the selection of the software development
-model and the corresponding implementation of the plan in for of GANTT chart. 
+planning.
 ****
 
 
@@ -221,8 +219,6 @@ much documentation but we need to elaborate strictly needed documentation for pr
 == How to select a software development model?
 image::dev-mod-sum.jpeg[Software Development Model Summary,1280,720,role=cover canvas]
 
-[.slide-agenda-title]
-== Project Planning
-
 [.ending-slide]
-== Now is time to know project management
+== Be ready for plan your project.
+image::planning.jpg[Software Development Model Summary,1280,720,role=cover canvas]
