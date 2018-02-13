@@ -26,6 +26,8 @@ This session is aimed at introducing the initial step of the project planning th
 ### Session 4: Agile methodology
 This section is aimed at explaining the fundamentals of the agile methodology. 
 
+- [Presentation (HTML)](session_4_Agile/output/index.html)
+- [Presentation and Notes (PDF)](session_3_Agile/output/session4.pdf)
 
 ### Class Exercises
 
