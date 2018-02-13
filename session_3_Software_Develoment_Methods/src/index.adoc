@@ -178,12 +178,51 @@ image::iterative-sum.jpeg[Iterative Summary,1280,720,role=cover canvas]
 
 [.cue]
 ****
-In terms of features, the iterative model has better *adaptation to change* than the waterfall 
-model. In this model, there is lot of documentation at global scale (could be a benefit) and in 
-each iteration (disadvantage). This model is heavy due to the iterations planning and complete 
-development schemes to perform in each iteration. 
+The iterative model is formed by multiple iterations. Each iteration comprise all the development
+phases (requirements, analysis, design, coding and testing). This method permits to redefine and 
+adjust the work performed along the project lifecycle (at the beginign more efforts in requirements
+and at the end of the project, more efforts in the testing.)
 ****
 
+[.slide-title-down]
+== Agile Model
+image::agile.jpg[Agile Model,1280,720,role=cover canvas]
+
+[.cue]
+****
+Agile models starts with the asumption that the changes are unaviodable. Agile methods are adaptable 
+to changes in form of small iterations in which the end-users are continoulsy involved. Thus, the product
+is evolved considering end-users feedback until the product is finalised and validated by the clients. 
+****
+
+[.slide-title-top]
+== Agile Features
+image::agile-sum.jpeg[Agile Summary,1280,720,role=cover canvas]
+
+[.cue]
+****
+In detail, Agile models are ideal for small work teams due to their informal management. Despite this,
+agile has been implemented in enterprises with high sucessful ratios. Moreover, agile is totally adaptable 
+to changes and customers feedback due to the division of the product development in different and 
+short-time sprints. In each sprint, we create a *functional prototypes* that passess the corresponding 
+test. This *functional prototypes* accomplish several products functionalities that at the end of the 
+sprint are validated by the client. So, the customer involvement is a huge benefit for creating a 
+product.
+
+The constant implication of the clients could be a constraint in terms of defining the final scope of 
+the product (the clients always wants more). This limitation in the scope also is aligned with a 
+limitation in the budget (the clients wannt lot of functionalities at lower prices). Finally, when
+implementing agile models, we need to take care of teh documentation. In agile there is not so 
+much documentation but we need to elaborate strictly needed documentation for product understanding 
+(specifications). 
+****
+
+[.slide-title-top]
+== How to select a software development model?
+image::dev-mod-sum.jpeg[Software Development Model Summary,1280,720,role=cover canvas]
+
+[.slide-agenda-title]
+== Project Planning
 
 [.ending-slide]
 == Now is time to know project management
