@@ -11,14 +11,14 @@
 - [ ] The project has finite resources
 - [ ] Operative result has repetitive different results
 - [ ] Operative result is continuous in time
-- [ ] All are false
+- [ ] All first three are false
 
 ## 3.-  What is the difference between product and project lifecycle?
 
 - [ ] Project lifecycle goes first and after finishing it, start product lifecycle
 - [ ] There is no difference
 - [ ] Product lifecycle contains multiple project lifecycle
-- [ ] Product lifecycle is equal in time than product lifecycle 
+- [ ] Product lifecycle is equal in time than project lifecycle 
 
 ## 4.- What is the organisation type with major role of the project manager?
 

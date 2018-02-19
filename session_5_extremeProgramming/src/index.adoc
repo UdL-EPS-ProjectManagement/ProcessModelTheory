@@ -1,0 +1,133 @@
+= Extreme Programming
+Aitor Corchero Rodríguez <aitorcorchero@gmail.com>
+:organization: Eurecat
+:position: Data Scientist at Smart Management Systems
+:twitter: @aolite
+:avatar: aitor-corchero.png
+:imagesdir: images
+:favicon: {imagesdir}/favicon.ico
+:!sectids:
+
+image::title-page.jpeg[Graph nodes background,1280,720,role=cover canvas]
+
+[%editable,transform=speaker]
+== Speaker
+
+[.agenda%conceal]
+== Agenda
+[.agenda,build=items]
+* Definition
+* Pair Programmin
+* Peer Review
+* Continous Integration
+* Test Driven Development
+
+[.cue]
+****
+This part of the subject is focused on learning about the techniques that compose the Extreme Programming (XP). 
+The techniques that we will expose here will serve to generate robust programs and coding. 
+****
+
+[.presentation-backdrop-img]
+== !
+image::extreme.jpeg[Extreme Programming,1280,720,role=cover canvas]
+"A set of techniques to empowers user satisfaction."
+-- XP
+
+[.cue]
+****
+Extreme Programming (XP) is a set of techniques to empowers users satisfaction. 
+For that, the techniques that we will see within this module are aimed at managing 
+teamwork towards developing a software aligned with user needs and requirements.
+****
+
+[.slide-title-down]
+== Pair Programming
+image::pair.png[Pair Programming,1280,720,role=cover canvas]
+
+
+[.cue]
+****
+Pair programming is defined as two developers working together in the same machine. The role of the developers 
+are divided between: 
+
+- *Programmer*. The one who code or perform the code. 
+- *Observer/Reviewer*. The one who revise the code at same moment as the program is coded.
+
+Comonly, these roles are exchanged during certain time to avoid fatigue or boring. The main benefit of using this
+technique is to code efficiently with less errors. It has been demonstrated that the code is developed faster too.
+****
+
+[.slide-title-down]
+== Peer Review
+image::peer.jpg[Peer Review,1280,720,role=cover canvas]
+
+
+[.cue]
+****
+Peer review consist on revising the code that other member of the team is developed. A person code more
+carefully if he knows that another team member is going to revise the code. 
+
+As a result, an improvement of code quality if it is reviewed by external person/people. 
+Moreover, this technique also contributes to the fast correction of error/defects.
+
+****
+
+[.slide-title-down]
+== Continous Integration
+image::ci.jpeg[Continous Integration,1280,720,role=cover canvas]
+
+[.cue]
+****
+Continous integration is a cycle that permits to link the requirements (in form of user stories) with the 
+development and testing. The concept of continous integration relies on integrating and launch the work performed 
+by the team. Hence, the programmers/developers continously commit the work into for example github. Once the 
+repository is updated, the CI automatically test the code and deploy the result into a web server. 
+
+Therefor, a CI helps to maintain a runnable version of the code during the development time. 
+****
+
+[.slide-title-down]
+== https://jenkins.io[Jenkins CI]
+image::jenkins.png[Jenkins CI,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== https://travis-ci.org[Travis CI]
+image::travis.png[Jenkins CI,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== https://circleci.com[Circle CI]
+image::circle.png[Circle CI,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== https://circleci.com[Gitlab CI]
+image::gitlab.png[Gitlab CI,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== TDD
+image::tdd.jpeg[Test Driven Development,1280,720,role=cover canvas]
+
+[.cue]
+****
+Test-Driven Development (TDD) is a cicle based on continous test. This technique is focusd on initially define
+a set of user stories to validate the code functionalities. Once the code is being developed the requirements and 
+functionalities are constantly validated. 
+
+This technique could be integrated into the Continous Integration to validate the user requirements that will
+enable the deployment of the functional prototype. Definitelly, this technique will ensure code quality 
+at same time as ensuring rapid detection of errors based on a set of test defined at 
+the beginign of the project and aligned with user requirements.
+****
+
+[.slide-title-down]
+== https://junit.org/junit5/[JUnit]
+image::junit.png[Junit,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== https://cucumber.io[Cucumber]
+image::cucumber.png[Cucumber,1280,720,role=cover canvas]
+
+
+[.ending-slide]
+== Let's go with SCRUM
+image::scrum.jpg[Scrum,1280,720,role=cover canvas]

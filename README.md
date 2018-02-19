@@ -29,6 +29,12 @@ This section is aimed at explaining the fundamentals of the agile methodology.
 - [Presentation (HTML)](session_4_Agile/output/index.html)
 - [Presentation and Notes (PDF)](session_4_Agile/output/session4.pdf)
 
+### Session 5: Extreme Programming 
+This section is focused on learning the basics of Extreme Programming. 
+
+- [Presentation (HTML)](session_5_extremeProgramming/output/index.html)
+- [Presentation and Notes (PDF)](session_5_extremeProgramming/output/session_5.pdf)
+
 ### Class Exercises
 
 #### Test 1: Introduction to project Management
