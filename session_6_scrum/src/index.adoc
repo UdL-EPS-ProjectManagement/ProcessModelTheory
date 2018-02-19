@@ -1,0 +1,34 @@
+= Scrum
+Aitor Corchero Rodríguez <aitorcorchero@gmail.com>
+:organization: Eurecat
+:position: Data Scientist at Smart Management Systems
+:twitter: @aolite
+:avatar: aitor-corchero.png
+:imagesdir: images
+:favicon: {imagesdir}/favicon.ico
+:!sectids:
+
+image::title-page.jpeg[Graph nodes background,1280,720,role=cover canvas]
+
+[%editable,transform=speaker]
+== Speaker
+
+[.agenda%conceal]
+== Agenda
+[.agenda,build=items]
+* Scrum
+* Elements
+* Roles
+* Meetings
+* Artifacts
+
+[.cue]
+****
+This part of the subject is focused on learning about the techniques that compose the Extreme Programming (XP). 
+The techniques that we will expose here will serve to generate robust programs and coding. 
+****
+
+
+[.ending-slide]
+== Let's go with SCRUM
+image::scrum.jpg[Scrum,1280,720,role=cover canvas]
