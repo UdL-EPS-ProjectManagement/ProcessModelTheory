@@ -561,6 +561,7 @@ section.title footer {
   background-color: #efefef;
   -ms-flex-pack: start;
   justify-content: flex-start;
+  color: #fff;
 }
 .bespoke-slide.query-result .query {
   background-color: #19213b;

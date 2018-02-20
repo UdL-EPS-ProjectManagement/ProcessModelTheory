@@ -24,9 +24,259 @@ image::title-page.jpeg[Graph nodes background,1280,720,role=cover canvas]
 
 [.cue]
 ****
-This part of the subject is focused on learning about the techniques that compose the Extreme Programming (XP). 
-The techniques that we will expose here will serve to generate robust programs and coding. 
+In this session we will talk about the Scrum methodology and the corresponding elements, team memebrs distribution, 
+meetings and corresponding documents (artifacts).
 ****
+
+[.presentation-backdrop-img]
+== !
+image::scrum.jpeg[SCRUM,1280,720,role=cover canvas]
+"*SCRUM* is a technique to develop products with the objective of maximising product and project value."
+-- SCRUM
+
+[.cue]
+****
+SCRUM definition refers to an agile technique to *maximise the product and projetct value*. SCRUM starts with 
+those aspects that we know or we have seen. After that, we adpat and track the progress as necessary 
+(Iterativelly). 
+
+Principal advantages of implementing SCRUM could be sumarising as: 
+
+- *Decrement of the development time:* Products that satisfies with most of the decided 
+functionalities and expetance.
+- *Anytime a product could be launch*: Functional prototypes will enable to launch a product at the end of 
+each sprint (project stage). 
+- *Agility and Flexibility:* Adaptability to the newer requirements and demanded modifications.
+****
+
+[.slide-title-down]
+== !
+image::scrum-meth.jpeg[SCRUM Methodology,1280,720,role=cover canvas]
+
+[.cue]
+****
+SCRUM methodology will start with the interviews between the customers and the product owner (client voice in 
+our company). Resulting from these interviews, the product owner elaborates an initial  *Product Backlog*. 
+The product backlog list of the main functionalities of the applicaiton that could change over time (sprints). 
+From product-backlog and in each sprint, the development team schedule the number of commits and functionalities 
+they will develop (*sprint planning meeting*). As a result from the sprint planning, the sprint backlog will stores
+the numer of issues and the time required for elaborating them. At this moment, the sprint starts and the development
+team is focused on performing the functional prototype. In this stage, the SCRUM master is the person in charge of 
+revising the work and ensuring correct developemnt times according to the plan. Each day of the sprint, the 
+*daily scrum meetings* ensures to avoid bottlenecks and problems during the development. These meetings corresponds 
+to small meetings where main problems and issues are discussed. At the end of the sprint, a *review* of the product
+functionalities with the client is performed. In this meeting, the functionalities are validated and newer 
+requirements could appear. Finally, the development team and the scrum-master elaborates an *sprint review* just to 
+evaluate the sprint and how we could improve for the next one.
+
+Within the next slides, we will enter in depth to this process describing the team members and roles, the artifacts
+(documents to be elaborated), and the meetings to be performed. 
+****
+
+[.slide-agenda-title]
+== SCRUM Elements
+
+[.slide-title-down]
+== Product Backlog
+image::product-backlog.jpeg[Product Backlog,1280,720,role=cover canvas]
+
+[.cue]
+****
+The main parts of the SCRUM technique is the product backlog which defines requirements 
+the application must meet in order to be successful. The product backlog contains a list of 
+requirements that are jointly prepared between the client and the product owner. Commonly, the requirements 
+are expressed in form of user stories. 
+****
+
+[.slide-title-top]
+== User Stories
+image::user-story.jpeg[User Story,1280,720,role=cover canvas]
+
+[.cue]
+****
+User stories (or just “stories”) are short statements identifying the type of person, 
+the functionality they need to perform in their own terms, and the value they expect to 
+achieve from it. These are intentionally expressed in common language. Keeping stories short is 
+important because it ensures the requirements are fine-grained.
+****
+
+[.query-result]
+== User Story #1
+[.query.build]
+--
+I am a registered user +
+I want to change my password +
+to personalise it and better remember it
+--
+
+[.result.build]
+....
+As a registered user, 
+I want to change my password, 
+so I can to personalise it and better 
+remember it.
+....
+
+[.cue]
+****
+Once defined all user-stories, a list of all functionalities should be stored in a document in form of table or 
+just text. The product backlog could be modified during the project by removing elements, priority change, new
+requirements, etc. For that, we need to keep this list accesible and in a framework that enables modifications 
+easily.
+****
+
+[.slide-title-top]
+== Product Backlog Priorization
+image::priorization-ex.jpeg[Prioeization Exercise,1280,720,role=cover canvas]
+
+[.cue]
+****
+Imagine that we have the followig list of stories complemented with the customer priorization. how
+we can plan the development?
+****
+
+
+[.slide-title-top]
+== Product Backlog Priorization (Solution)
+image::priorization-sol.jpeg[Prioeization Exercise,1280,720,role=cover canvas]
+
+[.cue]
+****
+Considering this list, we start to order from high priority to lowe one. If the priority is the same, we 
+check the required time (lower time at maximun cost is priorised). 
+****
+
+[.slide-title-down]
+== Sprint Backlog
+image::sprint-backlog.jpeg[Sprint Backlog,1280,720,role=cover canvas]
+
+[.cue]
+****
+The sprint backlog consist on a list of tasks derived from selecting high to lower functonalities from the 
+product backlog. Thus, each functonality in the product backlog is splitted into specific tasks. Therefore, 
+the sum of the time required for elaborated the task should be the same as the one determined in the 
+product backlog.
+****
+
+[.slide-title-down]
+== Sprint
+image::sprint.png[Sprint,1280,720,role=cover canvas]
+
+[.cue]
+****
+The sprints are the core part of SCRUM. The sprints refers to the development cicles (project iterations). 
+Commonly, this iterations chould cover 1-4 weeks. Each sprint shold have a clear objective just to 
+clarify the functional prototype to be delivered. An important thing is that the work performed inside an 
+sprint do not change during their execution.  
+****
+
+[.slide-title-down]
+== Increments
+image::increment.gif[Increment,1280,720,role=cover canvas]
+
+[.cue]
+****
+The increments corresponds with the result of each sprint. It is very important that at the end of the sprint
+we deliver a functional product that will be enhanced during the sprints. 
+****
+
+[.slide-title-down]
+== !
+image::scrum-ex.png[Example Sprints,1280,720,role=cover canvas]
+
+[.slide-agenda-title]
+== SCRUM Roles
+
+[.slide-title-down]
+== Product Owner
+image::product-owner.jpeg[Product Owner,1280,720,role=cover canvas]
+
+[.cue]
+****
+The *Product Owner* is the authorised person to be the "voice" of the client inside the company. Their 
+principal mission is to maximise the product value according to the client directives. 
+
+Considering their role: 
+
+- Responsible of the product backlog. 
+- Discover the requirements and make petitions to the client to discover newer functionalities or resolve 
+potential doubts. 
+****
+
+[.slide-title-down]
+== Development Team
+image::dev-team.jpeg[Development Team,1280,720,role=cover canvas]
+
+[.cue]
+****
+The *Development Team* is the group of professionals in charge of producing the product. As mentioned previously,
+principal features are:
+
+- Multidisciplinary team. 
+- Self-management teams. 
+- High Communication and transparency.  
+****
+
+[.slide-title-down]
+== Scrum Master
+image::scrum-master.jpeg[Scrum Master,1280,720,role=cover canvas]
+
+[.cue]
+****
+The *Scrum Master* is the responsible of ensuring the correct application of the methodology. Moreover, this
+person actuates as a lider, ensuring the correct timing and product quality. Moreover, this person is in charge of
+dealing with the problems abstracting the team for them.  
+****
+
+[.slide-agenda-title]
+== SCRUM Meetings
+
+[.slide-title-down]
+== Sprint Planning 
+image::sprint-planning.jpg[Sprint Planning,1280,720,role=cover canvas]
+
+[.cue]
+****
+The *sprint planning meeting* is made at the begining of each sprint. This meeting requires for 1-2 h and the 
+main objective is to evaluate, select and plan the coming weeks (entire sprint). 
+
+In this meeting participates the entire developemnt team, the scrum master and the product owner. Thus, the 
+product owner following the advices of the development team, is the one of selecting the functionalities and 
+tasks to be included in each sprint. 
+****
+
+[.slide-title-down]
+== Daily Meeting
+image::daily-meeting.jpg[Daily Meeting,1280,720,role=cover canvas]
+
+[.cue]
+****
+The *daily meeting* as the name says is a daily meeiting of 15-20 minutes. In this meetings only participates
+the scrum master and the development team. In this meetings, only is considered the work to be performed 
+inmediatly (same day) and the specific issues happened.
+****
+
+[.slide-title-down]
+== Sprint Review
+image::sprint-review.jpg[Sprint review,1280,720,role=cover canvas]
+
+[.cue]
+****
+The *sprint review* 
+****
+
+[.slide-title-down]
+== Sprint Retrospective
+image::sprint-retrospective.jpg[Sprint review,1280,720,role=cover canvas]
+
+[.cue]
+****
+The *sprint review* 
+****
+
+
+[.slide-agenda-title]
+== SCRUM Artifacts
 
 
 [.ending-slide]
