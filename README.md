@@ -57,7 +57,8 @@ This session is focused on describing and learning SCRUM. For that, we will lear
 
 ### Test 3: Agile Methodology
 
-TBD
+- [Test (HTML)](test_3/test_3.html)
+- [Test (PDF)](test_3/test_3.pdf)
 
 ### Exams
 
