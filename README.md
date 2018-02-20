@@ -47,10 +47,13 @@ This session is focused on describing and learning SCRUM. For that, we will lear
 
 - [Test (HTML)](test_1/test_1.html)
 - [Test (PDF)](test_1/test1.pdf)
+- [Test Solution (HTML)](test_1/test_1_sol.html)
+- [Test Solution (PDF)](test_1/test1_sol.pdf)
 
 ### Test 2: Software Development Models
 
-TBD
+- [Test (HTML)](test_2/test_2.html)
+- [Test (PDF)](test_2/test_2.pdf)
 
 ### Test 3: Agile Methodology
 
