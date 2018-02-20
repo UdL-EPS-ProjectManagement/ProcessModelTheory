@@ -35,6 +35,12 @@ This section is focused on learning the basics of Extreme Programming.
 - [Presentation (HTML)](session_5_extremeProgramming/output/index.html)
 - [Presentation and Notes (PDF)](session_5_extremeProgramming/output/session_5.pdf)
 
+### Session 6: SCRUM
+This session is focused on describing and learning SCRUM. For that, we will learn the SCRUM process and the corresponfing people involved, meetings, artifacts and main parts. 
+
+- [Presentation (HTML)](session_6_scrum/output/index.html)
+- [Presentation and Notes (PDF)](session_6_scrum/output/session_6.pdf)
+
 ### Class Exercises
 
 #### Test 1: Introduction to project Management
