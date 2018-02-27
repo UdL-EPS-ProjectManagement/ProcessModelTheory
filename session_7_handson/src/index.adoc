@@ -1,0 +1,38 @@
+= Hands On Github and Zenhub
+Aitor Corchero Rodríguez <aitorcorchero@gmail.com>
+:organization: Eurecat
+:position: Data Scientist at Smart Management Systems
+:twitter: @aolite
+:avatar: aitor-corchero.png
+:imagesdir: images
+:favicon: {imagesdir}/favicon.ico
+:!sectids:
+
+image::title-page.jpeg[Graph nodes background,1280,720,role=cover canvas]
+
+[%editable,transform=speaker]
+== Speaker
+
+[.agenda%conceal]
+== Agenda
+[.agenda,build=items]
+* Scrum 
+* Github + Zenhub = Agile
+* Exercise
+
+[.cue]
+****
+During this session, we will talk about the 
+****
+
+[.presentation-backdrop-img]
+== !
+image::scrum.jpeg[SCRUM,1280,720,role=cover canvas]
+"*SCRUM* is a technique to develop products with the objective of maximising product and project value."
+-- SCRUM
+
+
+
+[.ending-slide]
+== Hands on SCRUM
+image::hands-on.jpg[Scrum,1280,720,role=cover canvas]
