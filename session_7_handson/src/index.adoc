@@ -22,14 +22,16 @@ image::title-page.jpeg[Graph nodes background,1280,720,role=cover canvas]
 
 [.cue]
 ****
-During this session, we will talk about the 
+During this session, we will talk about how to practically we will implement SCRUM methodology. For that we will
+introduce two new elements: Zenhub and Github. 
 ****
 
-[.presentation-backdrop-img]
+
+
+[.slide-title-down]
 == !
-image::scrum.jpeg[SCRUM,1280,720,role=cover canvas]
-"*SCRUM* is a technique to develop products with the objective of maximising product and project value."
--- SCRUM
+image::scrum-meth.jpeg[SCRUM Methodology,1280,720,role=cover canvas]
+
 
 
 
