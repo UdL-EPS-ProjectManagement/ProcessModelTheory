@@ -54,11 +54,20 @@ This session is focused on describing and learning SCRUM. For that, we will lear
 
 - [Test (HTML)](test_2/test_2.html)
 - [Test (PDF)](test_2/test_2.pdf)
+- [Test Solution (HTML)](test_2/test_2_sol.html)
+- [Test Solution (PDF)](test_2/test_2_sol.pdf)
 
 ### Test 3: Agile Methodology
 
 - [Test (HTML)](test_3/test_3.html)
 - [Test (PDF)](test_3/test_3.pdf)
+- [Test Solution (HTML)](test_3/test_3_sol.html)
+- [Test Solution (PDF)](test_3/test_3_sol.pdf)
+
+### Test 4: Extreme Programming
+
+- [Test (HTML)](test_4/test_4.html)
+- [Test (PDF)](test_4/test_4.pdf)
 
 ### Exams
 

@@ -13,7 +13,7 @@ image::title-page.jpeg[Graph nodes background,1280,720,role=cover canvas]
 [%editable,transform=speaker]
 == Speaker
 
-[.agenda%conceal]
+[.agenda%conceal] 
 == Agenda
 [.agenda,build=items]
 * Scrum 
