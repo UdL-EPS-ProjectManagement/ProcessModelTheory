@@ -26,14 +26,118 @@ During this session, we will talk about how to practically we will implement SCR
 introduce two new elements: Zenhub and Github. 
 ****
 
-
-
 [.slide-title-down]
 == !
 image::scrum-meth.jpeg[SCRUM Methodology,1280,720,role=cover canvas]
 
+[.cue]
+****
+As remembering, here we also show the SCRUM. The SCRUM cycle is important to understand the
+following steps and the alignment with the techniques we are going to see.
+****
 
+[.slide-agenda-title]
+== Github + Zenhub = Agile
 
+[.cue]
+****
+Initial thing we are going to see is the correspondence between agile and Github and Zenhub tools.
+****
+
+[.slide-title-down]
+== !
+
+[cols=2*,options=header]
+|===
+
+|Element
+|Description
+
+|Stories/User Stories
+|Issues
+
+|Product Backlog
+|IssuIcebox in the board (Zenhub). Unmilestoned & unassigned issueses.
+
+|Sprint Backlog
+|Backlog list in the board (Zenhub). Milestoned & unsassigned issues.
+
+|Sprints Planning
+|Issues associated to the milestone
+
+|Sprints
+|Milestones
+
+|===
+
+[.slide-title-down]
+== !
+
+[cols=2*,options=header]
+|===
+
+|Element
+|Description
+
+|Sprint Planning Meeting
+|Wiki (Github)
+
+|Daily Scruum Meeting
+|Wiki (Github) & Burndown/up charts (Zenhub reports)
+
+|Sprint Review
+|Wiki (Github)
+
+|Finished Work
+|Code release (Github)
+
+|===
+
+[.slide-agenda-title]
+== Hands On Product Backlog
+
+[.slide-title-down]
+== Create the Repository
+image::grepocreation.png[Creation of the repository,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== Init the repo (readme)
+image::grepopage.png[Create the README file,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== Init the wiki
+image::gwiki.png[Create the Wiki page,1280,720,role=cover canvas]
+
+[.query-result]
+== User Story 
+[.query.build]
+--
+I am a registered user +
+I want to change my password +
+to personalise it and better remember it
+--
+
+[.result.build]
+....
+As a registered user, 
+I want to change my password, 
+so I can to personalise it and better 
+remember it.
+....
+
+[.slide-title-down]
+== Zenhub Link
+image::board.png[Zenhub Board,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== Stories to Icebox
+image::pbacklog.png[Product Backlog,1280,720,role=cover canvas]
+
+[.slide-agenda-title]
+== Ex1- Product Backlog resulting from interviews.
+
+[.slide-agenda-title]
+== Hands On Sprint planning Meeting
 
 [.ending-slide]
 == Hands on SCRUM
