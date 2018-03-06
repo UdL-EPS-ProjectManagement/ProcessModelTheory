@@ -41,6 +41,11 @@ This session is focused on describing and learning SCRUM. For that, we will lear
 - [Presentation (HTML)](session_6_scrum/output/index.html)
 - [Presentation and Notes (PDF)](session_6_scrum/output/session_6.pdf)
 
+### Session 7: Hands On Scrum
+In this session we are going to see how to practically implement SCRUM.
+
+- [Presentation (HTML)](session_7_handson/output/index.html)
+
 ### Class Exercises
 
 #### Test 1: Introduction to project Management
