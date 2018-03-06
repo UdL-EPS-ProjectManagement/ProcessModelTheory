@@ -69,6 +69,11 @@ This session is focused on describing and learning SCRUM. For that, we will lear
 - [Test (HTML)](test_4/test_4.html)
 - [Test (PDF)](test_4/test_4.pdf)
 
+### Test 5: Scrum
+
+- [Test (HTML)](test_5/test_5.html)
+- [Test (PDF)](test_5/test_5.pdf)
+
 ### Exams
 
 TBD
