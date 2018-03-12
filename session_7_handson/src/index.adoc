@@ -139,6 +139,22 @@ image::pbacklog.png[Product Backlog,1280,720,role=cover canvas]
 [.slide-agenda-title]
 == Hands On Sprint planning Meeting
 
+[.slide-title-down]
+== Select Stories
+image::pbacklog.png[Select Stories,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== Break down Stories
+image::createStories.png[ Backlog,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== Estimate Stories
+image::planningPoker.jpg[Planning Poker,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== Assign Stories
+image::estimate.png[Assign Tasks,1280,720,role=cover canvas]
+
 [.ending-slide]
 == Hands on SCRUM
 image::hands-on.jpg[Scrum,1280,720,role=cover canvas]
