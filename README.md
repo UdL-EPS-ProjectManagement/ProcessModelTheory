@@ -81,6 +81,7 @@ In this session we are going to see how to practically implement SCRUM.
 
 ### Exams
 
-TBD
+- [Exam 1](exam_1/exam_1.html)
+- [Solution Exam 1](exam_1/exam_1_sol.html)
 
 ### Support or Contact
