@@ -85,5 +85,7 @@ In this session we are going to see how to practically implement SCRUM.
 - [Solution Exam 1](exam_1/exam_1_sol.html)
 - [Exam 2](exam_2/exam_2.html)
 - [Solution Exam 2](exam_2/exam_2_sol.html)
+- [Examen Final] (examen-final/Examen.pdf)
+- [Solution of Examen Final] (examen-final/Examen_sol.pdf)
 
 ### Support or Contact
