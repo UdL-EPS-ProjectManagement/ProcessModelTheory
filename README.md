@@ -46,6 +46,13 @@ In this session we are going to see how to practically implement SCRUM.
 
 - [Presentation (HTML)](session_7_handson/output/index.html)
 
+### Templates
+
+- [Daily Meeting](templates/Daily_Meeting_Template.md)
+- [Sprint Planning](templates/Sprint_Planning_Template.md)
+- [Sprint Retrospective](templates/Sprint_Retrospective_Template.md)
+- [Sprint Review](templates/Sprint_Review_Template.md)
+
 ### Class Exercises
 
 #### Test 1: Introduction to project Management
