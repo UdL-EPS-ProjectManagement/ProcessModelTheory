@@ -49,7 +49,7 @@ In this session we are going to see how to practically implement SCRUM.
 ### Templates
 
 - [Daily Meeting](templates/Daily_Meeting_Template.md)
-- [Sprint Planning](templates/Sprint_Planning_Template.md)
+- [Sprint Planning](templates/Sprint_Planing_Template.md)
 - [Sprint Retrospective](templates/Sprint_Retrospective_Template.md)
 - [Sprint Review](templates/Sprint_Review_Template.md)
 
