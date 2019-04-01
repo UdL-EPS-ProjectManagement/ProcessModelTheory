@@ -27,7 +27,7 @@ This session is aimed at introducing the initial step of the project planning th
 This section is aimed at explaining the fundamentals of the agile methodology. 
 
 - [Presentation (HTML)](session_4_Agile/output/index.html)
-- [Presentation and Notes (PDF)](session_4_Agile/output/session4.pdf)
+- [Presentation and Notes (PDF)](session_4_Agile/output/session_4.pdf)
 
 ### Session 5: Extreme Programming 
 This section is focused on learning the basics of Extreme Programming. 
