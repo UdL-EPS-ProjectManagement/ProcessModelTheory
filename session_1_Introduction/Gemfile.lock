@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    asciidoctor (1.5.6.1)
+    asciidoctor (2.0.18)
     asciidoctor-bespoke (1.0.0.alpha.1)
       asciidoctor (>= 1.5.0)
       slim (~> 3.0.6)
