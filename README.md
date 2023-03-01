@@ -46,6 +46,12 @@ In this session we are going to see how to practically implement SCRUM.
 
 - [Presentation (HTML)](session_7_handson/output/index.html)
 
+### Sesion 8: Interview Recomendations
+
+In this section we recommend some tips for the client interviews. 
+
+- [Presentation (HTML)](interview/Entrevistas.html)
+
 ### Templates
 
 - [Daily Meeting](templates/Daily_Meeting_Template.md)
